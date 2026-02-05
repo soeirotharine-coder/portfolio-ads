@@ -8,11 +8,11 @@ Este repositório tem como objetivo registrar meu aprendizado ao longo do curso,
 com exercícios, atividades acadêmicas e pequenos projetos.
 
 ## 📚 O que estou aprendendo nesse 2º semestre
--Desenvolvimento WEB em HTML5, CSS, JAVASCRIPT, PHP
--Arquitetura de Computadores
--Banco de Dados
--Paradgmas de linguagens de programação em PYTHON
--Estrutura de Dados
+- Desenvolvimento WEB em HTML5, CSS, JAVASCRIPT, PHP
+- Arquitetura de Computadores
+- Banco de Dados
+- Paradgmas de linguagens de programação em PYTHON
+- Estrutura de Dados
 
 
 ## 📂 Organização do repositório
