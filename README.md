@@ -7,12 +7,13 @@ atualmente no 2º semestre da graduação.
 Este repositório tem como objetivo registrar meu aprendizado ao longo do curso,
 com exercícios, atividades acadêmicas e pequenos projetos.
 
-## 📚 O que estou aprendendo
-- Lógica de programação
-- Algoritmos
-- Introdução à programação
-- Estruturas básicas (variáveis, decisões, repetições)
-- Git e GitHub (iniciante)
+## 📚 O que estou aprendendo nesse 2º semestre
+-Desenvolvimento WEB em HTML5, CSS, JAVASCRIPT, PHP
+-Arquitetura de Computadores
+-Banco de Dados
+-Paradgmas de linguagens de programação em PYTHON
+-Estrutura de Dados
+
 
 ## 📂 Organização do repositório
 - Exercícios resolvidos
